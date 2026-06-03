@@ -1,0 +1,14 @@
+Origin: RMUX
+Label: RMUX
+Suite: stable
+Codename: stable
+Date: Wed, 03 Jun 2026 17:19:50 +0000
+Architectures: amd64
+Components: main
+Description: RMUX APT repository
+MD5Sum:
+ 584e20267e41c9556245a756b72366ae              585 main/binary-amd64/Packages
+ eb2f49e8f435f94691ee7be08643e4ca              425 main/binary-amd64/Packages.gz
+SHA256:
+ 82c3f9d50562dd87ef8ff45cb7053b7d9a6b08f77556fc32919801b56025e2d6              585 main/binary-amd64/Packages
+ 2bed414d0051f6cb1dfd41c7cc2eba4a82bf6683a7d01dd94ab155e3d9cea0ae              425 main/binary-amd64/Packages.gz

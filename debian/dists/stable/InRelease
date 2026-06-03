@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: RMUX
+Label: RMUX
+Suite: stable
+Codename: stable
+Date: Wed, 03 Jun 2026 17:19:50 +0000
+Architectures: amd64
+Components: main
+Description: RMUX APT repository
+MD5Sum:
+ 584e20267e41c9556245a756b72366ae              585 main/binary-amd64/Packages
+ eb2f49e8f435f94691ee7be08643e4ca              425 main/binary-amd64/Packages.gz
+SHA256:
+ 82c3f9d50562dd87ef8ff45cb7053b7d9a6b08f77556fc32919801b56025e2d6              585 main/binary-amd64/Packages
+ 2bed414d0051f6cb1dfd41c7cc2eba4a82bf6683a7d01dd94ab155e3d9cea0ae              425 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEtR5IqeU08QgWYnACISlgwHzr5aEFAmogYjYACgkQISlgwHzr
+5aH90xAAuS4uJXm9BCAy94pmZnqChU+EF4SismsGqLPetvGMdnISM9quR7juDZpf
+DN/Afk02p0T76SbOHkxEbtPMz1zmawo7blVu1UeQ65HExxMwAHwbTfhIRC7XhHKt
+okNbJZxMUQkQEXnJA32oPyTayMp2K/dl1yWEU6FlzXXwXKzoF59e+I749MpLJ7Sl
+wE1FdFIrSPN6jqmr/z66I9tGtCsCi94L95VficKRRJtVLVI+ELJ7nWUzwV7nFwjU
++9EAuBCTPJY35gyxvFbva0X0ZuzfeApgEzPUx7EIpYOgVD+M5wm5LN/2iAtfoWFX
+0/3hXxzCTgafaqkuclBBBTzzvh5XGhSBVO7akD+otd/vZcyH1daWRVcC66xsSwoR
+IE82V064Kz3XUJmHwWexTwPk85tE17BpozYu6lS5FSRMe8thpEOekLTxjsJqWEi/
+8mJ/8KIiPn+yrlFQ6LVpYFwDI3zfW0b96BzhiWZHPpaijRODonozqnWxgj9Xuego
+/dtPK4a2bUqY5cacAOcZuhh0v7E7Hf2J6cJyDDi9kLolS28DnUuCk/hi0mlDYQ4B
+k/1sFtOgqcXmCgPrOWqxVELgFPE7Tw3yuPMHU3tKhrhT1jN/jzwy7kLczZ0D9j3m
+iuB4JZXfEsqWagOGj+68AJ4OGXGH7otqeluowu8CC/2wbnXS1Y0=
+=2lyh
+-----END PGP SIGNATURE-----
