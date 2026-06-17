@@ -11,7 +11,7 @@ Description: Terminal multiplexer with a tmux-style CLI
  RMUX is a local terminal multiplexer with a tmux-compatible command surface,
  a daemon runtime, a Rust SDK, and native Windows support.
 Filename: pool/main/r/rmux/rmux_0.6.0_amd64.deb
-Size: 8210698
-MD5sum: 6cc9d1821e4b223d1f57454e9a4845d8
-SHA256: 7af1e20a71553aade4209fa26a61e58f8ebd0077d6dfacc2ac66ada4d20d4cc9
+Size: 8210720
+MD5sum: ddc8ccfc1ff70c4de2643195e766ec56
+SHA256: 4d3fbb90a1e583f7c3d081ac2d88068a4f86919c84a5e6112ba03cba55247b92
 
