@@ -1,5 +1,5 @@
 Package: rmux
-Version: 0.6.1
+Version: 0.7.0
 Section: utils
 Priority: optional
 Architecture: amd64
@@ -10,8 +10,8 @@ Homepage: https://rmux.io
 Description: Terminal multiplexer with a tmux-style CLI
  RMUX is a local terminal multiplexer with a tmux-compatible command surface,
  a daemon runtime, a Rust SDK, and native Windows support.
-Filename: pool/main/r/rmux/rmux_0.6.1_amd64.deb
-Size: 8264780
-MD5sum: 00d68db86f9919307f8e59cea1601efd
-SHA256: e4b1db7a14f82375dd115fbc5d50b6d4b3512b16e01d59d6cbe061c9468dfde9
+Filename: pool/main/r/rmux/rmux_0.7.0_amd64.deb
+Size: 8379292
+MD5sum: 44a8222bd84eca9f9060746f2a6172d7
+SHA256: c8649f13eaefd14048d4fb64da3db6f28c840081bcedb39d872b759996605526
 

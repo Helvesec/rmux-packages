@@ -2,13 +2,17 @@ Origin: RMUX
 Label: RMUX
 Suite: stable
 Codename: stable
-Date: Wed, 17 Jun 2026 11:30:58 +0000
-Architectures: amd64
+Date: Thu, 25 Jun 2026 12:15:47 +0000
+Architectures: amd64 arm64
 Components: main
 Description: RMUX APT repository
 MD5Sum:
- 6473a02d0d3f1969092f0a43a5e355a7              585 main/binary-amd64/Packages
- fd0c9780b6a0615b8e13d7586ee21281              425 main/binary-amd64/Packages.gz
+ 399351f6ab0b4a821bb156a1d1ff8300              585 main/binary-amd64/Packages
+ 84fc45ae6b7217037dd3bb753efab7ec              426 main/binary-amd64/Packages.gz
+ 09e129957b46d1e1d8b98c04ed6ff2a3              585 main/binary-arm64/Packages
+ 09fd3c26dd4e2e680dfc32e351e4890d              425 main/binary-arm64/Packages.gz
 SHA256:
- 4cc8d55f29727516423a015bbe811e26c002862da5105264fa79aee3117a6cff              585 main/binary-amd64/Packages
- 746047e842b123bc17d558b7500c42af99ddd4c61e46c1ed68b0f44f8c44e011              425 main/binary-amd64/Packages.gz
+ d006f913ce7d2ec9f987e8b1eafe5098ce73ed881ee90028b2a8a9830b35b7c8              585 main/binary-amd64/Packages
+ 753249bfd82644a50b2351043b29eca9e487a1d527e45b947ecd298530af2c29              426 main/binary-amd64/Packages.gz
+ 11625c8bfd9c5cffb5088406e41b27b76e1b309d2ba726e24a8cf865798e5358              585 main/binary-arm64/Packages
+ c469a2712fbe7fcf90ec980de750cb27c5f54f3677801a504470b6ee1f0957ca              425 main/binary-arm64/Packages.gz
