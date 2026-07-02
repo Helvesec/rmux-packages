@@ -5,33 +5,33 @@ Origin: RMUX
 Label: RMUX
 Suite: stable
 Codename: stable
-Date: Sat, 27 Jun 2026 00:20:40 +0000
+Date: Thu, 02 Jul 2026 21:19:44 +0000
 Architectures: amd64 arm64
 Components: main
 Description: RMUX APT repository
 MD5Sum:
- 686ea8c65bee2a05c66dd92498afb4ce              585 main/binary-amd64/Packages
- 9723e28b357e54ff282494641592689e              426 main/binary-amd64/Packages.gz
- ebfbc5143bc76ce9a1142b0ce8045e32              585 main/binary-arm64/Packages
- 8a7eef822b1fb1143e7ddc235d4bd150              423 main/binary-arm64/Packages.gz
+ 4795ff7d18dd93c7ffba7955d7b7552f              585 main/binary-amd64/Packages
+ e3fb8a4af47f6c39115850daf7ae9bdc              426 main/binary-amd64/Packages.gz
+ 00e9ae867d1a929dbb759adeebf735b7              585 main/binary-arm64/Packages
+ 4677d1648ad3a1572e4613edb3fdfb9f              425 main/binary-arm64/Packages.gz
 SHA256:
- e271b772a6d9acb3b7e82d76f99da9b458302e8775b08549074dc7a50b51a058              585 main/binary-amd64/Packages
- 5d38a03af0a2a1a481d5e10a285051b5806969777fbc246f130ac3de5eec5930              426 main/binary-amd64/Packages.gz
- 8c47ff305f3a60bbd97e9aaacb0dafb681aa912ffa259e06105d16336125e209              585 main/binary-arm64/Packages
- 401e542ad277e8998ee4816dc8c61822401ad982467411d7019616c04fa55b7a              423 main/binary-arm64/Packages.gz
+ 9561cc77ee4eb9e3fa9b995437c34122a135fb61f4ca841b94ac875696e31817              585 main/binary-amd64/Packages
+ 0f2296ece0d116714207316ed63170674543c4c0e2b08125b92b3b546465f74b              426 main/binary-amd64/Packages.gz
+ bbb8d0675915a504997c968e558bb2c8feccb278ad494008cbd064e5168f765a              585 main/binary-arm64/Packages
+ 7333ee7a0cef89fc7207efd0b53e0ffa13f6dc7beaa592843fac20eb0adc2c9c              425 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEtR5IqeU08QgWYnACISlgwHzr5aEFAmo/F1gACgkQISlgwHzr
-5aHFfA/+OOlhAAJHRTaJpI7NKEcDEibDNbBYedoy5ReGZgiMx1FJ48pTZaY41qkF
-+s/6DhxbeFH5hYhyqqLCJY9ocj/a3RQDi4BNv5yXiczz/2mxW4zveD5cf6L/Y7kq
-PcEUendXL39F+nYWvzNInB+FrfHW7IVuvBGXoGyAICZcl8OYAkR3gMSvI37GkTUB
-wwtTQK81lu/mOWWAbRur+8oaQpEPJEXwQbG8Ke06rcevOzldCLMoWiHIk6B0aa+e
-OC/+G3U2sjmAoQZM8as9yO4GyzCiceqwTs2UD+EJTPZ0dXqOH7VFzr4D8FULcvmR
-E5DlBwbpZHrlmAB3ZesGd3qXpyImVcWPePT2LynFEhIHv60WB+HaFRm2qZzlMnx4
-kQ4BOxnzrNOfpKRfGX7eybHAo6T6xQCGVLza3FyUbazbvSRIVoyy2IoYF1cM37wm
-GvD0a1wBXRS/oWt5PTSvESDQJIR78ifvYPNaskReYFtg1sQqYOctHx8718Fu8Qhd
-J1uxzuQkgwcUGzJ1F0c+n6+cZkEW46e3hhKzLoVL67u7KCcRjbz5Ruz3ds8M+V0p
-djE3GQDnR9Ot0QG23BFSSRGhO3d6TywCL0LktGfU2+5q3nNmhltLzNfhvqCLa9cd
-fkZk9uiXF7z73fKh9KcNoPhuSFMcfQwz0KTso8jTHrj36c/blmA=
-=n1yw
+iQIzBAEBCAAdFiEEtR5IqeU08QgWYnACISlgwHzr5aEFAmpG1fAACgkQISlgwHzr
+5aHlPQ//cti8WHR7P4eSA7tRW80I0QkuxBq8q1NJfEG5NnmXkgqTDgM1zl6zYcjv
+BeNDEtLpDHAJMcrg8geRbXCdI5yNxTynjGnuKTod5czxlkea2T1148+ZZ7c0NKXn
+XSTPRYbV0mWCKp+s0iLHVxbjlJlznLKF2+D/dPfEw4cg1mLAt1J4oZR3DaCRXnDD
+wNj45KQrlJTUqEYSFw97TOm7vKy5ybJmMkymQXx+c5qlHa4haJARG/hFb+olzPoD
+qgHP+8++MW0l6nrV9CdUTminM7c8uPgyebr6cfKsHN+RBO+KdE4Q+loLVAnblVXb
+wXZWWRCekDQkR4B+5g2wg8rZ0Tmanv2RlCTnSgIIYxGNyWJwdG8UZJ5+810p/qmR
+wGgTqy+BM+AS1jUYw7dIRbyW7uJS0KIeuZs7lbY2SUcYXa8EBwG0L0qwDLZ4B9bG
+roPntqqjvA7KG5MuOhWFabbpzRrvZu+YbC4FDHeeoRO4vkj0lDF+Rt6LBqq6SA27
+DF5ZwCaS0nkE3gZphk5xKc72FXDtHECvAV4XvmIuykfgK+vmBXEOj5Eu/vB+pIpV
+iAeA0JwnZxUAGrbF4psmeLaOwQzikAIQfSLOkaQi+rdM8Z7WXzHtrjZe2c+1SkhG
+oq3RFTr+O7Kc+3QAFlf0H1Z3GN2WfqQFEN93dJ9K//16Y3wwBkM=
+=vlkr
 -----END PGP SIGNATURE-----
