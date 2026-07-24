@@ -5,10 +5,11 @@ Origin: RMUX
 Label: RMUX
 Suite: stable
 Codename: stable
-Date: Fri, 24 Jul 2026 18:44:49 +0000
+Date: Fri, 24 Jul 2026 19:27:58 +0000
 Architectures: amd64 arm64
 Components: main
 Description: RMUX APT repository
+Acquire-By-Hash: yes
 MD5Sum:
  2c8b8adaf4ac0be26112e536ee761a8d             1172 main/binary-amd64/Packages
  fe1314577975ff27723a0d3d336bc633              523 main/binary-amd64/Packages.gz
@@ -21,17 +22,17 @@ SHA256:
  f58c87d8be9f31e53288890d86a1cebe9102ef4458cd52409638c6ce26569a4e              521 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEtR5IqeU08QgWYnACISlgwHzr5aEFAmpjsqEACgkQISlgwHzr
-5aEkKg//c0cqOu9sVZAY4sNo2DQTUTubj36tefCFEpmopTscUiXNr/lcWR7kE8EG
-/fsBSi2MEXuBX34WFJ9O5S8obtIpSjGw8FE4+SkRK7tbrUA5Y47anqtUx+isxo5O
-5DstcbD+22OqU8Qf/dGK+UpaOie8fP1hTfjkMWHAuV3+p8dwj4ZthPOLR1ByKJTZ
-Iy8PNoXzNXeMBXgVFrSfPpvfICyQ8y6Hrwtzzm2Hn3GtTx/toMNTwYBeZKvLab40
-oVtXdMsx+Vm2cXCD/Ox1gd9ZJ/W2V8U/jj5PACrt6KkAC5IojBVBp1bKYgqfG9+k
-z7Nhmhcd0sHpvUfKB/lJTieb0dDS/Ojw2yT+QvSxvCbI+NxbdxoXvWyaDB7qm9df
-vXB6eg4xC4sn6cHRPZmFK7ej3aybDTCpnvgI6XzUHUa2ElA13KqcniDipeo3pyr0
-HtdVJ3+XSTMJbn+Sv4fnT5wjVfnCAA9sDHSYheErZFGrC91ANnSX01jLP2vgDCIw
-HuTLIijqNdGV4UPjciZxGNe3cnUe4wjU5KCBLbuH/JGm7vP49kL9WCHj0/dX8cry
-zv1bAogx+hxCmaFcjy5bICWMvcDNa2rBCZ1GVRdbxCAHATg62pI7QrfG9p4buEPM
-ps4F+Scat97wnNHUm5/19HLJn0ev/CXIYwpCbB3KHs8pCnICPL4=
-=dCFB
+iQIzBAEBCAAdFiEEtR5IqeU08QgWYnACISlgwHzr5aEFAmpjvL4ACgkQISlgwHzr
+5aHzNBAAnFDHG2Q0DXsSHPqv7IujSD4p/fGkQJ/zS4iEobJNW8CkhDO4hB2VmD+1
+4p4WuMW67gQVEDEtmROANwMrN+pAUwwv2NSfMJ4pd4Rz+PglHcsWfr5Wm2/Uqh7Q
+pWhX3i9qgZbLeShNcdXtGinjwTQ0MfKX6VQh68PQG+nuQXdsM1ahKYCKk8IRQDED
+AXn2C2WPy7BVltxpqCJ07dymSJ4e4V551VBz6v/8VfgxJ6X7dW6es7vXLdGRfZLb
+V9MRDJZk/83zYhCwmC91LzoNeBto5I9qX1ARL5DYCUA+4Kq02zwR9OBIAfITGs0j
+6ODx7AuOePLFxFkdtCrB023BiM430j8tgN2jhjtFS+/Fc/fY7+oOn0kiUyyR0maP
+9ZnIH8IR3eutiHvNo/FNDOx14nnM5WUhuiBL325RwpdwodXuHdsjKtLpNfDj1Sd+
+XVaFCyP3ag1I/pAGz6KGnQ1SSZxqFxpnW8E9DMvtXmoA4NdzPB+6QTcxQG5wTfzn
+WizWZ3BwoFeBN5CuLI82HcFcAXlgrXQn8Q7t1YRhVkwXr+m1oi1CDm85wuttgYSa
+lS5Pn6mF0zHARLA9U5L5gCEbM6U1SkWjihAElyL7+eRDdO+IdH9pBX+IfYosMk/W
+/AMDnLdP/qmoPEB6SGG0gVaKt+SdSTTH68YHCrAukvdOLj3OuhQ=
+=x3Mq
 -----END PGP SIGNATURE-----
