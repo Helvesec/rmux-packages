@@ -1,21 +1,4 @@
 Package: rmux
-Version: 0.8.0
-Section: utils
-Priority: optional
-Architecture: amd64
-Installed-Size: 26072
-Maintainer: Helvesec <release@rmux.io>
-Depends: libc6 (>= 2.31), libgcc-s1 (>= 3.0)
-Homepage: https://rmux.io
-Description: Terminal multiplexer with a tmux-style CLI
- RMUX is a local terminal multiplexer with a tmux-compatible command surface,
- a daemon runtime, a Rust SDK, and native Windows support.
-Filename: pool/main/r/rmux/rmux_0.8.0_amd64.deb
-Size: 8621118
-MD5sum: 912e28249e16da15a848abe4a74e9d6d
-SHA256: 34a81efc7b565624cbd36fedfb6359546990560ab159b9df9f901f15abe9a5df
-
-Package: rmux
 Version: 0.9.0
 Section: utils
 Priority: optional
@@ -31,4 +14,21 @@ Filename: pool/main/r/rmux/rmux_0.9.0_amd64.deb
 Size: 10714504
 MD5sum: eae4cc11bc8170e2b82b332538ef72c8
 SHA256: 54d8f09c9036649726a4eaa9153ffc4fccb79552c0e35646693fa62ca104d518
+
+Package: rmux
+Version: 0.9.1
+Section: utils
+Priority: optional
+Architecture: amd64
+Installed-Size: 34480
+Maintainer: Helvesec <release@rmux.io>
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0)
+Homepage: https://rmux.io
+Description: Terminal multiplexer with a tmux-style CLI
+ RMUX is a local terminal multiplexer with a tmux-compatible command surface,
+ a daemon runtime, a Rust SDK, and native Windows support.
+Filename: pool/main/r/rmux/rmux_0.9.1_amd64.deb
+Size: 11523382
+MD5sum: b414ca4a9c6e16bbef32667dd1ea8bb9
+SHA256: 8d8b7be560f218adf5dcc0e663bed4caf3027490a6aa58bde01b7bf6971e1bf7
 
